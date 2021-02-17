@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "slot": null,
+    "city": null,
+    "velocity": null
+  },
+  {
+    "index": 1,
+    "slot": 6,
+    "city": null,
+    "velocity": null
+  },
+  {
+    "index": 2,
+    "slot": null,
+    "city": null,
+    "velocity": null
+  },
+  {
+    "index": 3,
+    "slot": null,
+    "city": null,
+    "velocity": 1652.81
+  },
+  {
+    "index": 4,
+    "slot": null,
+    "city": null,
+    "velocity": null
+  },
+  {
+    "index": 5,
+    "slot": null,
+    "city": "Duut",
+    "velocity": 7465.46
+  },
+  {
+    "index": 6,
+    "slot": 3,
+    "city": "Zhambyl",
+    "velocity": null
+  },
+  {
+    "index": 7,
+    "slot": null,
+    "city": null,
+    "velocity": 9954.63
+  },
+  {
+    "index": 8,
+    "slot": null,
+    "city": null,
+    "velocity": null
+  },
+  {
+    "index": 9,
+    "slot": null,
+    "city": "Sarãqib",
+    "velocity": null
+  },
+  {
+    "index": 10,
+    "slot": 6,
+    "city": null,
+    "velocity": 8708.38
+  },
+  {
+    "index": 11,
+    "slot": null,
+    "city": "Shuixi",
+    "velocity": null
+  }
+]
